@@ -1,6 +1,6 @@
 # CDNN
 Centroid Displacement based k-NN (CDNN) Algorithm
-The CDNN algorithm is proposed in the paper [Robust Biometric Recognition From Palm Depth Images for Gloved Hands](https://ieeexplore.ieee.org/document/7161357). To accelerate future projects using our algorithm and also evaluate CDNN against other K-NN algorithms. We develop and open-source CDNN as a Python library for performing multi-label classification tasks, based on the \texttt{scikit-learn} API. We also aim to modify and extend CDNN for the study of regression in the near future. 
+The CDNN algorithm is proposed in the paper [Robust Biometric Recognition From Palm Depth Images for Gloved Hands](https://ieeexplore.ieee.org/document/7161357). To accelerate future projects using our algorithm and also evaluate CDNN against other K-NN algorithms. We develop and open-source CDNN as a Python library for performing multi-label classification tasks, based on the **scikit-learn** API. We also aim to modify and extend CDNN for the study of regression in the near future. 
 
 
 The repositry includes:

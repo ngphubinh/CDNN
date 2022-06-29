@@ -37,9 +37,9 @@ Accuracy for kNN with k = 21 and distance weights: 0.983
 ## Citation
 If you use this code or CDNN algorithm for your research, please cite this paper.
 ```
-@article{nguyen2015robust,
+@article{CDNN,
   title={Robust biometric recognition from palm depth images for gloved hands},
-  author={Nguyen, Binh P and Tay, Wei-Liang and Chui, Chee-Kong},
+  author={Nguyen, Binh P. and Tay, Wei-Liang and Chui, Chee-Kong},
   journal={IEEE Transactions on Human-Machine Systems},
   volume={45},
   number={6},
